@@ -1,0 +1,30 @@
+
+
+.tarea1{
+background-color: rgb(147, 191, 220);
+font-size: 20px;
+margin-top: 10px;
+margin-left: 50px;
+margin-bottom: 10px;
+width: 220px;
+height: 120px;
+}
+.tarea2{
+background-color: rgb(255, 196, 196);
+font-size: 20px;
+margin-top: 10px;
+margin-left: 50px;
+margin-bottom: 10px;
+width: 220px;
+height: 120px;
+}
+
+#tarea{
+    height: 150px;
+    width: 380px;
+}
+
+li{
+      list-style: none;
+
+}
