@@ -14,6 +14,7 @@ Este repositorio contiene una colección de ejercicios prácticos sobre HTML, CS
 | # | Ejercicio | Tema | 
 |---|-----------|------|
 | 1 | Página de Registro | Formulario semántico HTML y CSS |
+| 2 | Organizador de tareas| Tablero de tareas con post it
 
 
 ## ✒️ Autor
